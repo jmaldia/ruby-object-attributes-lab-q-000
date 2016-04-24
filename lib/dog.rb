@@ -14,7 +14,7 @@ class Dog
   end
 
 # setters and getters for breed
-  def initialize(breed)
+  def initialize
   end
 
   def breed

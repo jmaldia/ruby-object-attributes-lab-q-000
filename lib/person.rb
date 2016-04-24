@@ -1,11 +1,10 @@
 # define dog class
 class Person
 
-# setters and getters for name
-  def initialize(name)
-    @name = name
+  def initialize
   end
 
+# setters and getters for name
   def name
     @name
   end
@@ -15,9 +14,6 @@ class Person
   end
 
 # setters and getters for job
-  def initialize(job)
-    @job = job
-  end
 
   def job
     @job
